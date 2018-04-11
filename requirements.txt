@@ -1,0 +1,4 @@
+oauthlib
+pymongo
+scrapy
+twisted
